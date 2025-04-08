@@ -5,11 +5,11 @@ An AI-powered email assistant designed to manage and interact with email data in
 
 ai_email_assistant/
 ├── ai_email_assistant/
-│   ├── emails.db                  # SQLite database storing email data
-│   └── backend/                   # Backend application logic
-│       ├── backend/              # Possibly contains app modules or routes
-│       └── __pycache__/         # Python cache files
-Note: The structure suggests a potential nested naming conflict (backend/backend/). You may consider simplifying this for clarity.
+│   ├── emails.db                
+│   └── backend/                   
+│       ├── backend/              
+│       └── __pycache__/         
+
 
 🚀 Features
 Stores and manages email data locally
